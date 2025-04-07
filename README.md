@@ -1,1 +1,5 @@
-- 👋 Hi!
+- Hi!
+- My name is Mei (May)
+- I'm currently a 2nd year at Georgia Tech majoring in Computer Science (with Minor in Linguistics)
+- My coding experiences spans Data Engineering, Machine Learning, and Web Development, and I am looking forward to to explore more topics in depth.
+- In my freetime, I love playing switch (Animal Crossing!), listening to music while walking back to my dorm in night breeze, or cooking for hours!
