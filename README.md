@@ -8,12 +8,12 @@ My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in C
 
 ## 🚀 My GitHub Stats
 
-![Mei's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaucyBoi21&show_icons=true&theme=radical)
+![Mei's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiL55&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaucyBoi21&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiL55&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SaucyBoi21&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MeiL551&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaucyBoi21&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiL55&theme=radical)
