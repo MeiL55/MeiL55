@@ -7,8 +7,3 @@ My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in C
 ![Mei's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiL55&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiL55&layout=compact&theme=radical)
-
-
-## 📊 Most Used Languages
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiL55&theme=radical)
