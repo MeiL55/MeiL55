@@ -2,10 +2,10 @@
 
 My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in Computer Science (with Minor in Linguistics). I will be joining MSCS @ Georgia Tech in August 2026.
 
-<h2 align="center">
+<h2 align="left">
   🪄 Technologies & Tools 
 </h2>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
