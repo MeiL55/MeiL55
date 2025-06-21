@@ -16,14 +16,6 @@ haha to be determined - deserves a fancier one
 
 ---
 
-## 📈 GitHub Stats
-
-![Mei's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiL55&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiL55&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 
 `Conducting research studies` · `Java Sevelet` · `Writing better README's ;)`
