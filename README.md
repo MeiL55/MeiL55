@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in Computer Science (with Minor in Linguistics). I will be joining MSCS @ Georgia Tech in August 2026.
+My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in Computer Science (with Minor in Linguistics). I have 1YOE of software engineering, and I'm trying to explore more areas.
 
 <h2 align="left">
   🪄 Technologies & Tools 
@@ -29,4 +29,4 @@ My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in C
 </p>
 
 ## 🧸 Fun Fact
-I have a huge box (large home depot paper box) of plushies.
+I have a huge box (large home depot paper box) of plushies. I have sugar cravings. Cooking is one of my favourite things to do when I'm alone.
