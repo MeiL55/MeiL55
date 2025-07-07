@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in Computer Science (with Minor in Linguistics). I have 1YOE of software engineering, and I'm trying to explore more areas.
+My name is Mei (May), and I'm currently a 2nd year at Georgia Tech majoring in Computer Science (with Minor in Linguistics).
 
 <h2 align="left">
   🪄 Technologies & Tools 
