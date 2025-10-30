@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mei (May), and I'm currently a junior at Georgia Tech majoring in Computer Science (with Minor in Linguistics/Fintech).
+My name is Mei (May), and I'm currently a junior at Georgia Tech majoring in Computer Science (with Minor in Linguistics).
 Check out my portfolio @: https://meil55.github.io/me1/
 
 <h2 align="left">
